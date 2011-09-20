@@ -1,0 +1,3 @@
+"#Species name"	"Protein common name"	"GenBank ID"	"PMID"	"Localisation"	"GenBank Accession Mapping notes"	"Microscopy Type"	"Tag Type"	"Quote"	"Strain"	"Comments"
+"#Cryptosporidium muris"	"CMYL3, CMYL30"		12049457	"oocyst wall during mature oocyst"				"Immunogold labeling further revealed the presence of the CM250 antigen in electron-dense vesicles and cytoplasm of developing macrogametocytes, and ultimately localized to the oocyst wall of mature oocysts."	"no actual gene known"	
+"#Cryptosporidium fayeri"	"GP60"	"FJ490092"	19027006					"GP60 is cleaved into two sub-units, GP15 and GP45. GP15 and GP45 are localised in the apical region of sporozoites and merozoites."		"no localisation done"
