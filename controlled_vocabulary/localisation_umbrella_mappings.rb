@@ -20,7 +20,6 @@ module ApiLocUmbrellaLocalisationMappings
       'apical conoid',
       'apical end of endoplasmic reticulum',
       'apical end of surface',
-      'apical end of the nuclear envelope',
       'apical most tip',
       'apical parasite plasma membrane',
       'cap at basal end of daughter',
@@ -91,7 +90,7 @@ module ApiLocUmbrellaLocalisationMappings
       'endoplasmic reticulum',
       'endoplasmic reticulum associated vesicle',
       'perinuclear endoplasmic reticulum',
-    
+      'apical end of the nuclear envelope',
     
     ],
     
