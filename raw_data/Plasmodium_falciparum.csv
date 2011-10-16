@@ -1223,3 +1223,6 @@
 "ATP synthase OSCP subunit"	"MAL13P1.47"	21984828	"mitochondrion"	"Taken directly from publication"	"Fixed light"	"HA tag"	"Upon transfection, all of these HA-tagged subunits, except the putative c subunit, localized to the mitochondrion (Fig. 1a,c-f)."	"D10"	"PfRPL26 promoter, episomal"		
 "#ATP synthase c subunit"	"MAL7P1.340"	21984828		"Taken directly from publication"	"Fixed light"	"HA tag"	"Upon transfection, all of these HA-tagged subunits, except the putative c subunit, localized to the mitochondrion (Fig. 1a,c-f)."		"PfRPL26 promoter, episomal"	"localisation not convincing to authors"	
 "ATP synthase beta subunit"	"PFL1725w"	21984828	"mitochondrion"	"Taken directly from publication"		"HA tag"	"Using this method, we successfully generated parasites expressing ?-3xHA, which is also targeted to the mitochondrion (Fig. 1b)"	"D10"	"genomicly integrated"		
+"PfAK1"	"PF10_0086"	18973776		"blast from AY118172, annotation matches"					"no localisation done, just a confirmation of gene model"		
+"PfGAK"	"PFD0755c"	18973776		"blast from AF308612"					"no localisation done, just a confirmation of gene model"		
+"PfAK2"	"PF08_0062"	18973776		"blast from AAV83966"					"no localisation done, just a confirmation of gene model"		
