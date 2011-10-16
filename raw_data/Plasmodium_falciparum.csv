@@ -1226,3 +1226,5 @@
 "PfAK1"	"PF10_0086"	18973776		"blast from AY118172, annotation matches"					"no localisation done, just a confirmation of gene model"		
 "PfGAK"	"PFD0755c"	18973776		"blast from AF308612"					"no localisation done, just a confirmation of gene model"		
 "PfAK2"	"PF08_0062"	18973776		"blast from AAV83966"					"no localisation done, just a confirmation of gene model"		
+"PfMLC4"	"PFF1320c"	21143563	"cytosol"	"Taken directly from publication"	"Fixed light"	"N terminal HA tag"	"PfMLC4 localizes in the cytosol of the transfected parasites, whereas TgMLC4 seems to be associated with the ER (Figure 2B)."	"D10"	"episomally expressed, PfCRT promoter"	"stage information not found"	
+"PfMLC7"	"PF10_0301"	21143563	"cytosol"	"Taken directly from publication"	"Fixed light"	"N terminal HA tag"	"When expressed as an N-terminal HA-tagged copy under the control of crt promoter, PfMLC7 showed a cytosolic punctate localization (Figure 3B)."	"D10"	"episomally expressed, PfCRT promoter"	"However, HA-PfMLC7 remained undetectable [by western blot]  (Figure 3A)."	"stage information not found"
