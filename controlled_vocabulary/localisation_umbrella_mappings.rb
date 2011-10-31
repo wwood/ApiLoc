@@ -30,6 +30,7 @@ module ApiLocUmbrellaLocalisationMappings
       'dense granule',
       'electron dense collar',
       'extracellular apical pole of ookinete protrusion',
+      'exoneme',
       'high electron dense microneme',
       'limiting membrane of rhoptry',
       'luminal membrane of rhoptry',
@@ -131,7 +132,6 @@ module ApiLocUmbrellaLocalisationMappings
       'erythrocyte cytosol',
       'erythrocyte periphery',
       'erythrocyte plasma membrane',
-      'exoneme',
       'exported',
       'exposed erythrocyte plasma membrane',
       'gametocyte attached erythrocytic vesicle',
@@ -220,7 +220,7 @@ module ApiLocUmbrellaLocalisationMappings
       'food vacuole',
       'food vacuole lumen',
       'food vacuole membrane',
-    
+      'food vacuole region',
     ],
     
     
@@ -295,7 +295,6 @@ module ApiLocUmbrellaLocalisationMappings
 'feeder organelle',
 'flagellar basal bodies',
 'flagellate basal body',
-'food vacuole region',
 'gliding trail',
 'host tissue',
 'individual merozoites inside merozomes',
