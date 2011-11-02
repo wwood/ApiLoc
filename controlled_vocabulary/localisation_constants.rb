@@ -175,7 +175,6 @@ module LocalisationConstants
       'posterior to nucleus',
       'nowhere except nucleus',
       'replication foci',
-      'perinuclear area of endoplasmic reticulum',
       'apical',
       'sub-apical',
       'apical annuli',
@@ -305,7 +304,6 @@ module LocalisationConstants
       'cytoplasmic accumulation',
       'parasitophorous vacuole membrane',
       'nucleus',
-      'erythrocyte membrane',
       'erythrocyte cytoplasm',
       'cytoplasmic face of host erythrocyte membrane'
     ],
@@ -443,7 +441,7 @@ module LocalisationConstants
       'parasitophorous vacuole',
       'oocyst wall',
       'inner surface of the oocyst wall',
-      'outer wall',
+      'outer oocyst wall',
       'outer veil on exterior of oocyst wall',
       'tethers on inner surface of the oocyst wall',
       'wall forming body',
@@ -458,7 +456,6 @@ module LocalisationConstants
       'residual body',
       'anterior vacuole',
       'surrounding',
-      'exterior',
     ],
     'Theileria annulata'=> [
       'mitochondrion',
@@ -672,6 +669,7 @@ module LocalisationConstants
       'outer veil' => 'outer veil on exterior of oocyst wall',
       'inner surface of the oocyst walls' => 'inner surface of the oocyst wall',
       'outer surface' => 'surface',
+      'outer wall' => 'outer oocyst wall',
     },
     'Other species placeholder' => {
       'Sarcocystis muris' => {
@@ -723,7 +721,8 @@ module LocalisationConstants
       'inner surface of host cell cytoplasm' => 'parasitophorous vacuole membrane',
       'rbc' => 'erythrocyte cytoplasm',
       'infected rbc' => 'erythrocyte cytoplasm',
-      'infected rbc membrane' => 'erythrocyte membrane',
+      'erythrocyte membrane' => 'host erythrocyte membrane',
+      'infected rbc membrane' => 'host erythrocyte membrane',
     },
     'Toxoplasma gondii' => {
       'golgi' => 'golgi apparatus',
@@ -822,6 +821,7 @@ module LocalisationConstants
       'basal region of imc' => 'basal region of inner membrane complex',
       'tip/conoid' => 'conoid',
       'apical ring' => 'ring structure at apical inner membrane complex',
+      'perinuclear area of endoplasmic reticulum' => 'perinuclear endoplasmic reticulum', 
     },
     'Plasmodium falciparum' => {
       'host cell' => 'erythrocyte',
