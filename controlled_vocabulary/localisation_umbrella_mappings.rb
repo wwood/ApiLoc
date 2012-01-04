@@ -314,7 +314,6 @@ module ApiLocUmbrellaLocalisationMappings
 'gliding trail',
 'host tissue',
 'individual merozoites inside merozomes',
-'inner membrane space side of inner membrane of mitochondria',
 'inner surface of peripheral vacuoles',
 'inner surface of the oocyst wall',
 'internal membrane networks',
