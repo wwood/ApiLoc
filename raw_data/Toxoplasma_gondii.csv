@@ -927,3 +927,5 @@
 "ECR, enoyl-CoA reductase"	"TGME49_085240"	22179608	"endoplasmic reticulum during intracellular tachyzoite"	"Taken directly from publication, gene model inconsistent?, blast from JN544918"	"Fixed light"	"C terminal myc tag"	"In contrast, synthesis of very long chain fatty acids was dependent on a fatty acid elongation system comprising three elongases, two reductases and a dehydratase that were localized to the endoplasmic reticulum."		"strain information not found"	
 "ACP"		22179608	"apicoplast and not endoplasmic reticulum during intracellular tachyzoite"		"Fixed light"	"antibody directly to protein"	"We constructed a conditional mutant for the apicoplast acyl carrier protein (ACP) in T. gondii."		"strain information not found"	
 "Der1"		22179608	"endoplasmic reticulum during intracellular tachyzoite"		"Fixed light"	"antibody to GFP tag"	"For comparison we transfected these lines with an expression plasmid for Der1-GFP (32), a marker for the T. gondii endoplasmic reticulum."		"strain information not found"	
+		22190852								
+		"22177563 (and berghei?)"								
