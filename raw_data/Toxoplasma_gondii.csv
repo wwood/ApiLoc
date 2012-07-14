@@ -829,7 +829,6 @@
 "H3.3"	"TGME49_018260"	21321216	"nucleus during tachyzoite"	"Taken directly from publication"	"fixed light"	"antibody to YFP tag"	"As expected, histones H3 and H3.3 label the entire nucleus"	"RH"		
 "TgAPE"	"TGGT1_098640"	21353648	"nucleus and cytoplasm during intracellular tachyzoite"	"blast from HM593513, taken directly from publication"	"fixed light"	"antibody directly to protein, FLAG tag"	"Native TgAPE is present in the parasite nucleus and cytoplasm while native TgAPN is nuclear (Fig. 2B)."	"RH"	"GenBank sequence not yet released, even though the article is fully published"	
 "TgAPN"	"TGGT1_034710"	21353648	"nucleus during intracellular tachyzoite"	"blast from HM593514, taken directly from publication"	"fixed light"	"antibody directly to protein, FLAG tag"	"Native TgAPE is present in the parasite nucleus and cytoplasm while native TgAPN is nuclear (Fig. 2B)."	"RH"	"GenBank sequence not yet released, even though the article is fully published"	
-"ORF25.m01787"	"25.m01787"	21352857	"nuclear during intracellular tachyzoite"	"Taken directly from publication"	"fixed light"	"antibody"	"IFA of clone B6 (epitope tagged clone) demonstrated nuclear localization of the protein (Fig.ﾠ4), consistent with the identification of ORF 25.m01787 as an RNA polymerase III transcription factor Brf1"	"RH"		
 "RON8"		21423671	"moving junction during tachyzoite invasion"		"fixed light"	"3HA tag"	"R8c parasites demonstrate restored RON8 expression in the rhoptry necks of intracellular parasites (as shown by colocalization with RON4 by IFA, top panel) and restored RON8 traffic to the moving junction during invasion (arrowhead, bottom panel)."	"RH ku80- hpt-"		
 "RON4"		21423671	"rhoptry neck during intracellular tachyzoite"		"fixed light"	"antibody, HA tag"	"RON4 is used for colocalization to the rhoptry necks for each strain."	"RH ku80- hpt-"		
 "ISP1"		21423671	"apical cap of IMC during newly invaded tachyzoite"		"fixed light"	"fixed light"	"The orientation of the parasite is shown by costaining with anti-ISP1 which detects the apical cap of the IMC"	"RH ku80- hpt-"		
@@ -983,3 +982,5 @@
 "TgIMC1"		21166903	"IMC during M/C"		"Fixed light"	"antibody directly to protein"	"The M/C phases were identified based on formation of new daughter IMCs"		"strain information not found"	
 		18315523								
 		22210829								
+"NST1"		22288938	"Golgi during ?????? needs supp data"				"As shown in Figure S2A, the protein colocalized with GRASP55 to the bar-like Golgi structure."			
+		22288938	"more"							
