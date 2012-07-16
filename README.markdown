@@ -14,7 +14,7 @@ This folder contains the raw curatorial data. That is, after reading journal art
 
 There is currently a single spreadsheet for each species, appropriately named. Obviously enough the <code>Plasmodium\_falciparum.csv</code> file contains a list of all the different <i>P. falciparum</i> proteins that have had their localisation curated. While most species that have undergone curation also happen to have had their genomes sequenced, also have had their genomes sequenced. When this is not the case e.g. for any <i>Besnoitia</i> species (they causes [Besnoitiosis](http://en.wikipedia.org/wiki/Besnoitiosis)), then for largely historical reasons they are recorded and the genus level instead of the species level, and are named with only the genus name e.g. <code>Besnoitia_spp.csv</code>. The species is known for each protein's curation however - this information lives inside the file in the first column.
 
-### The <code>misc</code> folder
+### The <code>controlled_vocabulary</code> folder
 This folder contains information about the [controlled vocabulary](http://en.wikipedia.org/wiki/Controlled_vocabulary) used in ApiLoc.
 
 ### The <code>misc</code> folder
