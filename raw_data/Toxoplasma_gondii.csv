@@ -984,3 +984,6 @@
 		22210829								
 "NST1"		22288938	"Golgi during ?????? needs supp data"				"As shown in Figure S2A, the protein colocalized with GRASP55 to the bar-like Golgi structure."			
 		22288938	"more"							
+"TgMyoB"	"TGME49_055190"	11706051	"cytoplasm during intracellular tachyzoite"	"Blast from AAF09586, gene model inconsistent?"	"Fixed light"	"N terminal myc tag"	"MyoB was spread throughout the cytoplasm associated with a punctate structure"	"RH"	"alternatively spliced"	
+"TgMyoC"	"TGME49_055190"	11706051	"anterior ring of inner membrane complex and posterior ring of inner membrane complex during intracellular tachyzoite"	"Blast from AAF09586, gene model inconsistent?"	"Fixed light"	"N terminal myc tag"	"MyoC is the first marker selectively concentrated at the anterior and posterior polar rings of the inner membrane complex,"	"RH"	"alternatively spliced"	
+"#MIC6"		11706051							"localisation not annunciated"	
