@@ -1,8 +1,8 @@
 # ApiLoc
 
-The phylum of intracellular parasites Apicomplexa contains many nasty bugs, including those that cause [malaria](http://en.wikipedia.org/wiki/Plasmodium), [cryptosporidiosis](http://en.wikipedia.org/wiki/Cryptosporidium), [toxoplasmosis](http://en.wikipedia.org/wiki/Toxoplasma_gondii) and [texas fever](http://en.wikipedia.org/wiki/Texas_fever). While these species are single-celled, they are eukaryotes (i.e. not bacterial or archael) and possess many strange and intriguing structures within (and outside) their cells.
+The phylum of intracellular parasites Apicomplexa contains many nasty bugs, including those that cause [malaria](http://en.wikipedia.org/wiki/Plasmodium), [cryptosporidiosis](http://en.wikipedia.org/wiki/Cryptosporidium), [toxoplasmosis](http://en.wikipedia.org/wiki/Toxoplasma_gondii) and [texas fever](http://en.wikipedia.org/wiki/Texas_fever). While these species are single-celled, they are eukaryotes (i.e. not bacterial or archaeal) and possess many strange and intriguing structures within (and outside) their cells.
 
-ApiLoc is a database of where proteins that are encoded in these parasites' genomes are located in and around these parasites. A web interface is provided at http://apiloc.biochem.unimelb.edu.au but this git repository is the source for up to date data that is behind that interface.
+ApiLoc is a database of where proteins that are encoded in these parasites' genomes are located in and around these parasites. A web interface is provided at http://apiloc.biochem.unimelb.edu.au but this git repository is the source for the data that is behind that interface.
 
 ## Structure of the data
 Firstly, a caution. This is early days for the database, so expect things to change without notice. 
